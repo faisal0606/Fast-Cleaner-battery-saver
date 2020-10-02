@@ -79,7 +79,7 @@ Install Browser Add-on: https://tools.google.com/dlpage/gaoptout
 
 - The company uses the user's ad identifier, visit history, cookie data, etc. ("activity log") to provide useful advertising to the users considering their characteristics. An Advertising id is a nonpersistent, non-persistent identifier that is used to provide customized information or advertising to users with an id issued by the mobile operating system and is not used to identify individuals. 
 
-- Custom ad service providers that collect activity logs: [온라인 맞춤광고 사업자명 나열]
+- Custom ad service providers that collect activity logs:
 
 - Items in the activity log you collect: advertising id, visit history, cookie data
 
@@ -97,7 +97,6 @@ Install Browser Add-on: https://tools.google.com/dlpage/gaoptout
 
  . To find out how to contact a custom ad provider, please refer to the contact number within the link of your custom ad provider above.
 
-- For more information on how to save users, please contact us at medozeus@gmail.com
 
 How RSUPPORT Uses the Personal Information It Obtains
 We use information obtained from your use of  Streamer  Live service for various purposes, including:
@@ -136,7 +135,7 @@ While we generally do not share personal information with third parties, please 
 ■ We store all data collected during the use of  Streamer  Live service in the system provided by Amazon Web Services, Inc. (“AWS”). AWS may have access to your data, and AWS’s data privacy policy (https://aws.amazon.com/compliance/data-privacy-faq/?nc1=f_ls) applies to the handling of all data stored in AWS’s system.
 
 Transfer of Personal Information
-We may use information (including your personal information) in countries other than where your device is located in connection with providing you with our  Streamer  Live service and any other purposes outlined in this Privacy Policy. The data protection laws in many of these countries may not offer the same level of protection as those in the country where you are located. However, before transferring your personal information, we will take all technical measures under our guidelines that such information is managed in accordance with EU General Data Protection Regulation and consistently maintained in a secure manner to ensure that such information will be afforded the same level of protection. For further information on how we handle and protect your personally identifiable information, please contact us at medozeus@gmail.com.
+We may use information (including your personal information) in countries other than where your device is located in connection with providing you with our  Streamer  Live service and any other purposes outlined in this Privacy Policy. The data protection laws in many of these countries may not offer the same level of protection as those in the country where you are located. However, before transferring your personal information, we will take all technical measures under our guidelines that such information is managed in accordance with EU General Data Protection Regulation and consistently maintained in a secure manner to ensure that such information will be afforded the same level of protection.
 
 Period of Retention of Users’ Personal Information
 We will take reasonable measures to ensure that we only keep your personal information for as long as is necessary for us to provide you with  Streamer  Live service or for the purpose for which it was collected or as required by applicable law. We apply criteria to determine the appropriate retention period for different categories of personal information you provide us with. For instance, we will keep information necessary to protect us in a legal claim, such as information relating to a contract, for the term of the contract and up to one year thereafter. After the expiration of such period, the relevant information will be deleted or anonymized. Where we have collected the personal information based on your consent and we have no other legal basis to continue with that processing, if you subsequently withdraw your consent, then we will delete your personal information.
