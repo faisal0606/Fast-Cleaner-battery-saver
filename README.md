@@ -1,4 +1,4 @@
-# Fast-Cleaner-battery-saver
+# Speed x Phone Cleaner
 
 
 Privacy Policy
